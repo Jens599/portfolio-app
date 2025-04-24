@@ -3,7 +3,7 @@
     "name": "Jenish Shrestha",
     "title": "Frontend Developer & UI/UX Designer",
     "description": "Creative and detail-oriented frontend developer with a strong eye for design. Specialized in building responsive, user-friendly web applications using React, JavaScript, and modern CSS frameworks. Combines technical expertise with design sensibility to create engaging user experiences. Proficient in implementing pixel-perfect designs, optimizing performance, and ensuring cross-browser compatibility. Strong advocate for clean code, accessibility standards, and modern development practices.",
-    "image": "/public/images/profile-avatar.svg",
+    "image": "/images/profile-avatar.svg",
     "skills": [
       "Frontend Development",
       "React.js",
