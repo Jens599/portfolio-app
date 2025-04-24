@@ -1,0 +1,67 @@
+{
+  "about": {
+    "name": "Jenish Shrestha",
+    "title": "Frontend Developer & UI/UX Designer",
+    "description": "Creative and detail-oriented frontend developer with a strong eye for design. Specialized in building responsive, user-friendly web applications using React, JavaScript, and modern CSS frameworks. Combines technical expertise with design sensibility to create engaging user experiences. Proficient in implementing pixel-perfect designs, optimizing performance, and ensuring cross-browser compatibility. Strong advocate for clean code, accessibility standards, and modern development practices.",
+    "image": "/public/images/profile-avatar.svg",
+    "skills": [
+      "Frontend Development",
+      "React.js",
+      "JavaScript (ES6+)",
+      "HTML5",
+      "CSS3",
+      "Tailwind CSS",
+      "Responsive Design",
+      "UI/UX Design",
+      "Web Performance",
+      "Cross-browser Compatibility",
+      "Git Version Control",
+      "RESTful APIs",
+      "Digital Marketing",
+      "Social Media Marketing",
+      "Graphic Design",
+      "Figma",
+      "Adobe Creative Suite",
+      "Problem Solving",
+      "Technical Documentation"
+    ]
+  },
+  "experience": [
+    {
+      "title": "Graphics Designer",
+      "company": "NepalKhoj",
+      "dates": "July 2023 - October 2023",
+      "description": "Experienced in creating visually engaging digital content for diverse platforms. Designed and published social media posts, festive visuals, and video thumbnails, enhancing brand presence. Developed professional news templates and performed simple video editing, demonstrating versatility in digital media production.",
+      "responsibilities": [
+        "Created and published social media posts",
+        "Designed festive visuals and video thumbnails",
+        "Developed professional news templates",
+        "Performed simple video editing"
+      ]
+    },
+    {
+      "title": "Digital Marketing and Administrative Coordinator",
+      "company": "JLC Japanese Language School",
+      "dates": "February 2024 - Present",
+      "description": "Creative and IT Support Specialist with expertise in digital marketing and content creation. Skilled in designing and posting engaging social media content, creating personalized document templates, and implementing digital marketing strategies. Manages the school's online presence and analyzes performance metrics to drive engagement.",
+      "responsibilities": [
+        "Designing and posting social media content",
+        "Creating personalized document templates",
+        "Reviewing student documentation",
+        "Providing IT support",
+        "Managing digital marketing campaigns",
+        "Tracking and analyzing marketing metrics"
+      ]
+    }
+  ],
+  "projects": [],
+  "contact": {
+    "email": "workjenss@jenish-shrestha.com.np",
+    "social": [
+      {
+        "platform": "LinkedIn",
+        "url": "https://www.linkedin.com/in/jenish-shrestha"
+      }
+    ]
+  }
+}
